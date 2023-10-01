@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Begin - Unlock Bootloader
 
 Let's flash our redmi 11s.
 
