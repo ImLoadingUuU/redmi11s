@@ -60,7 +60,7 @@ const config = {
         title: 'Redmi 11s',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/redmi.png',
         },
         items: [
           {
