@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Unoffical Docs for redmi 11s',
   tagline: 'Redmi 11s',
-  url: 'https://redmi11s.vercel.app/,
+  url: 'https://redmi11s.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Redmi 11s',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
