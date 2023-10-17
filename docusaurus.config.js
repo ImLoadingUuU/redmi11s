@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Unoffical Docs for redmi 11s',
+  title: 'Redmi 11s Unoffical Documentation',
   tagline: 'Redmi 11s',
   url: 'https://redmi11s.vercel.app/',
   baseUrl: '/',
